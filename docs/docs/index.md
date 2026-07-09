@@ -6,7 +6,9 @@ description: >
 
 # Welcome!
 
-![Ducky: Ente's Mascot](/ducky.png){width=50% style="margin: 0 auto"}
+<p align="center">
+  <img src="/docs/docs/public/ducky.png" alt="Ducky: Ente's Mascot" width="50%">
+</p>
 
 ## Introduction
 
@@ -28,9 +30,9 @@ But one day, he discovered that "ente" means "duck" in German. This unexpected c
 
 ## Getting Started
 
-We recommend reading the documentation for [Ente Photos](/photos/), [Ente Auth](/auth/), or [Ente Locker](/locker/) to get started with installation on the desired platform, explore available features and usage.
+We recommend reading the documentation for [Ente Photos](/docs/docs/photos/), [Ente Auth](/docs/docs/auth/), or [Ente Locker](/docs/docs/locker/) to get started with installation on the desired platform, explore available features and usage.
 
-If you are looking to self-host Ente, we recommend you to read the [official documentation](/self-hosting/) for updated information on getting started, installation, administration and maintenance.
+If you are looking to self-host Ente, we recommend you to read the [official documentation](/docs/docs/self-hosting/) for updated information on getting started, installation, administration and maintenance.
 
 ## Contributing
 
